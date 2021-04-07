@@ -188,6 +188,11 @@
     })
   }
 
+  window.open(
+    'https://cajamar.sp.gov.br/app-cajamar/',
+    '_blank' // <- This is what makes it open in a new window.
+  );
+
   /**
    * Porfolio isotope and filter
    */
