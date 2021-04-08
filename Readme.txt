@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Front do projeto Obrômetro Cajamar
 
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Prefeitura de Cajamar
+07/04/2021
